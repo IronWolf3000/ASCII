@@ -23,5 +23,5 @@ RUN :
 😎ASCII😎
 
 
-https://github.com/IronWolf3000/ASCII/blob/main/Screenshot_20210928-233006.jpg
+
 
